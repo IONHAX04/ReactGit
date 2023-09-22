@@ -1,0 +1,17 @@
+.secondNav{
+    background: rgb(240, 240, 240);
+    padding: 20px;
+    justify-content: space-evenly;
+}
+
+.card{
+    padding: 10px;
+    align-items: center;
+}
+.card p{
+    margin: 5px;
+}
+.card img{
+    height: 110px;
+    width: 90px;
+}

@@ -1,0 +1,22 @@
+.addOne{
+    /* justify-content: space-evenly; */
+    padding: 10px;  
+    margin: 10px;
+}
+
+.cards{
+    margin: 17px;
+    border-radius: 10px;
+    box-shadow: 0px 7px 8px rgba(0, 0, 0, 0.3);
+    border: 1px solid  gray;
+    /* align-items: center; */
+    text-align: center;
+    padding: 20px;
+    justify-content: space-between;
+}
+.cards img{
+    height: 130px;
+    width: 110px;
+}
+
+

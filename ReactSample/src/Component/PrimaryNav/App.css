@@ -1,0 +1,39 @@
+.navbar{
+    background-color: rgb(0, 48, 204);
+    position: sticky !important;
+}
+nav{
+    position: sticky !important;
+    top: 0;
+    left: 0;
+    overflow: hidden;
+    z-index: 10;
+    box-shadow: 0px 7px 8px rgba(0, 0, 0, 0.5);
+}
+
+.navbar-brand{
+	font-weight: 600;
+}
+
+
+.nav-link{
+	color: white !important;
+	border-bottom: 1px solid white transparent;
+}
+
+.nav-link:hover{
+	border-bottom: 1px solid white;
+}
+
+.navbar-search{
+	justify-content: center;
+	align-items: center;
+}
+
+.logo{
+	padding-left: 5px;
+	padding-right: 5px;
+	height: 50px;
+	width: 50px;
+	align-items: center;
+}

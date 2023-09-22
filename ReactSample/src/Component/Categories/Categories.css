@@ -1,0 +1,15 @@
+.categories{
+    margin: 20px 0px;
+    background: rgb(240, 240, 240);
+    padding: 10px;
+    text-align: center;
+    align-items: center;
+    justify-content: space-evenly;
+}
+.categories h2{
+    padding-top: 20px;
+}
+.categories div{
+    margin: 20px;
+}
+
